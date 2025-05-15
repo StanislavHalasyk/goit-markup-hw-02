@@ -1,6 +1,6 @@
 body {
     font-family: "Roboto", sans-serif;
-    color: #2e2f42;
+    color: #434455;
     background-color: #fff;
 }
 
@@ -11,7 +11,6 @@ ol {
 
 a {
     text-decoration: none;
-    font-style: normal;
 }
 
 /* HEADER */
@@ -28,11 +27,11 @@ a {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #434455;
+    color: #4d5ae5;
 }
 
 .nav-logo .accent {
-    color: #4d5ae5;
+    color: #2e2f42;
 }
 
 .nav-menu-list {
@@ -54,6 +53,7 @@ a {
 }
 
 .header-address {
+    font-style: normal;
 }
 .adress-menu-list {
 }
@@ -215,11 +215,11 @@ a {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #f4f4fd;
+    color: #4d5ae5;
 }
 
 .footer-logo .accent {
-    color: #4d5ae5;
+    color: #f4f4fd;
 }
 
 .footer-text {
